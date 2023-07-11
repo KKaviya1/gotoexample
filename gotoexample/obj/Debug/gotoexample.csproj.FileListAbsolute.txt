@@ -1,0 +1,8 @@
+F:\Day - 2\gotoexample\gotoexample\bin\Debug\gotoexample.exe.config
+F:\Day - 2\gotoexample\gotoexample\bin\Debug\gotoexample.exe
+F:\Day - 2\gotoexample\gotoexample\bin\Debug\gotoexample.pdb
+F:\Day - 2\gotoexample\gotoexample\obj\Debug\gotoexample.csproj.AssemblyReference.cache
+F:\Day - 2\gotoexample\gotoexample\obj\Debug\gotoexample.csproj.SuggestedBindingRedirects.cache
+F:\Day - 2\gotoexample\gotoexample\obj\Debug\gotoexample.csproj.CoreCompileInputs.cache
+F:\Day - 2\gotoexample\gotoexample\obj\Debug\gotoexample.exe
+F:\Day - 2\gotoexample\gotoexample\obj\Debug\gotoexample.pdb
