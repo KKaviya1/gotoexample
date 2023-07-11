@@ -11,6 +11,7 @@ namespace gotoexample
         static void Main(string[] args)
         {
             string userName;
+            Again:
             Console.WriteLine("enter user name");
             userName = Console.ReadLine();
             if (userName.Length>=6)
@@ -21,6 +22,7 @@ namespace gotoexample
             else
             {
                 Console.WriteLine("Invalid UserName");
+                goto Again;
             }
             Console.ReadKey();
         }
